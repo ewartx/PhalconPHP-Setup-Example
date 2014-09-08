@@ -1,0 +1,9 @@
+{
+	"name": "Amplus/Amplus",
+	"config": {
+		"vendor-dir": "composer_libraries"
+	},
+	"require": {
+		"phpmailer/phpmailer": "5.2.*"
+    }
+}

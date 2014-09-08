@@ -1,0 +1,31 @@
+########################
+# node.js / npm
+########################
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+node_modules
+bower_components
+
+app/cache/*.php
+public/assets/js/app/sourcemaps
+public/assets/css/app/sourcemaps
+
+npm-debug.log
+
+###########################
+# misc
+###########################
+.sass-cache
+public/assets/js/app/sourcemaps/*
+public/assets/js/app/*.js

@@ -1,0 +1,26 @@
+{
+  "name": "Amplus",
+  "version": "0.0.1",
+  "description": "Amplus Marketing",
+  "author": "Amplus Marketing Ltd.",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.4",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-sails-linker": "^0.9.5",
+    "load-grunt-tasks": "^0.6.0",
+    "grunt-contrib-compass": "^0.9.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.10.0"   
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-coffee": "^0.10.0",
+    "grunt-contrib-imagemin": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-newer": "^0.7.0",
+    "grunt-coffeelint": "0.0.10" 
+  }
+}
